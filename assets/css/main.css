@@ -76,9 +76,9 @@ input, select, textarea {
 .MikeWilkins{
 	font-size:50%;
 }
-.html5, img{
+/* .html5{
 	border:1px solid purple;
-}
+} */
 img{
 	width:15%;
 }
