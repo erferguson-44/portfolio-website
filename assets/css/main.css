@@ -76,6 +76,13 @@ input, select, textarea {
 .MikeWilkins{
 	font-size:50%;
 }
+.html5, img{
+	border:1px solid purple;
+}
+img{
+	width:15%;
+}
+
 	@-ms-viewport {
 		width: device-width;
 	}
